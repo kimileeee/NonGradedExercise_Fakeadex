@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fakeadex</string>
+    <string name="speciesLabel">Species</string>
+    <string name="locationLabel">Location</string>
+    <string name="deleteLabel">Delete</string>
+</resources>
